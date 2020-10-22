@@ -1,0 +1,35 @@
+﻿p {color: red}
+
+
+.backgroundsetting
+{
+background-color: yellow;
+background-image: url("picture/background.png");
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: bottom
+}
+
+
+.portfolio{
+}
+.portfolio li{
+margin: 2em 0;
+padding: 1em;
+background:white;
+border-style: inset
+}
+.portfolio h3{
+border-left: 10px red solid
+text-align: center
+color: red
+}
+.portfolio a{
+text-align: center;
+width: 100px;
+height: 100px
+}
+.portfolio p{
+color: green
+}
