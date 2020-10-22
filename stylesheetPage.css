@@ -1,0 +1,85 @@
+﻿
+.privatepage{
+text-align: center;
+padding: 0.5em 1em;
+margin: 2em 0;
+color: #2c2c2f;
+background:rgba(0,0,0,0.5);/*背景色*/
+}
+
+
+.privatepage button{
+	margin: 5% 0;
+	padding: 5% 0;
+	border-style: inset;
+	height: auto;
+	text-align: center;
+	width: 100%;
+	height: width
+}
+
+.privatepage h2{
+font-size: 300%;
+padding: 5% 5%;
+background:rgba(155,255,255,0.8);
+}
+
+.privatepage h3{
+font-size: 200%;
+border-left: 10px blue solid;
+text-align: center;
+color: yellow
+
+}
+.privatepage img{
+text-align: center;
+width: 100%;
+height: auto;
+}
+.privatepage p{
+font-size: 150%;
+color: white
+}
+.privatepage a{
+font-size: 150%;
+color: white
+}
+
+.belt{
+text-align: center;
+padding: 0.5em 1em;
+margin: 2em 0;
+color: #2c2c2f;
+background:rgba(255,255,255,0.7);/*背景色*/
+}
+
+.belt button{
+margin: 1% 1%;
+}
+
+.belt img{
+width: 1em;
+height: auto;
+align: left;
+}
+
+.belt p{
+vertical-align: middle;
+color: green
+}
+
+.pageheader{
+text-align: center;
+padding: 0.5em 1em;
+margin: 0 0;
+color: #2c2c2f;
+background:rgba(255,255,255,0.8);/*背景色*/
+}
+
+.pagefooter{
+text-align: center;
+padding: 0 1em;
+margin: 0 0;
+color: #2c2c2f;
+background:rgba(255,255,0,0.8);/*背景色*/
+}
