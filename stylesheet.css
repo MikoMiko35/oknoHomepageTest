@@ -18,7 +18,7 @@ text-align: center;
 padding: 0.5em 1em;
 margin: 2em 0;
 color: #2c2c2f;
-background:rgba(0,0,0,0.05);/*背景色*/
+background:rgba(0,0,0,0.5);/*背景色*/
 }
 
 
@@ -54,6 +54,13 @@ background:rgba(0,0,0,0.05);/*背景色*/
 	height: width
 	}
 }
+
+.portfolio h2{
+font-size: 300%;
+padding: 5% 5%;
+background:rgba(155,255,255,0.8);
+}
+
 .portfolio h3{
 font-size: 200%;
 border-left: 10px blue solid;
