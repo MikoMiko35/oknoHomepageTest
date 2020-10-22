@@ -33,7 +33,7 @@ background:rgba(0,0,0,0.5);/*背景色*/
 }
 
 .portfolio h3{
-font-size: 300%;
+font-size: 350%;
 border-left: 10px blue solid;
 text-align: center;
 color: red
@@ -49,7 +49,7 @@ width: 100%;
 height: auto;
 }
 .portfolio p{
-font-size: 150%;
+font-size: 300%;
 color: green
 }
 
