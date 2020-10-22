@@ -2,7 +2,7 @@
 .backgroundsetting
 {
 background-color: white;
-background-image: url("picture/background.png");
+background-image: url("img/background.png");
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
@@ -33,6 +33,7 @@ background:rgba(0,0,0,0.05);/*背景色*/
 }
 
 .portfolio h3{
+font-size: 300%;
 border-left: 10px blue solid;
 text-align: center;
 color: red
@@ -43,10 +44,12 @@ width: 100%;
 height: auto;
 }
 .portfolio p{
+font-size: 150%;
 color: green
 }
 
 .belt{
+font-size: 150%;
 text-align: center;
 padding: 0.5em 1em;
 margin: 2em 0;
@@ -54,18 +57,39 @@ color: #2c2c2f;
 background:rgba(255,255,255,0.7);/*背景色*/
 }
 
+.belt button{
+margin: 2% 2%;
+}
+
+.belt img{
+width: 1em;
+height: auto;
+align: left;
+}
+
+.belt p{
+vertical-align: middle;
+font-size: 250%;
+color: green
+}
+
 .header{
+font-size: 150%;
 text-align: center;
 padding: 0.5em 1em;
-margin: 2em 0;
+margin: 0 0;
 color: #2c2c2f;
 background:rgba(255,255,255,0.8);/*背景色*/
 }
+.header button{
+font-size: 150%;
+}
 
 .footer{
+font-size: 150%;
 text-align: center;
-padding: 0.5em 1em;
-margin: 2em 0;
+padding: 0 1em;
+margin: 0 0;
 color: #2c2c2f;
 background:rgba(255,255,0,0.8);/*背景色*/
 }
